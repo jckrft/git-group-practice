@@ -1,3 +1,7 @@
 # git-group-practice
 
-BANANANNANANANANANANANNANAN
+BANANA
+
+CHANGES ROUND 2 YAY
+
+### Whats taters?
